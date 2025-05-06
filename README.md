@@ -22,4 +22,4 @@ LinkedIn frequently releases new code. If it doesn't work, it's probably because
 
 I do not store any of your data. The only data that is stored is kept on your own computer. This is needed for Chrome to remember what you selected to hide when you refresh your page.
 
-Feed Blocker for LinkedIn is not affiliated with LinkedIn.
+LinkedIn Feed Blocker is not affiliated with LinkedIn.
