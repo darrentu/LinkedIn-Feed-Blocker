@@ -1,4 +1,4 @@
-# Feed Blocker for LinkedIn :no_entry_sign: :newspaper:
+# LinkedIn Feed Blocker :no_entry_sign: :newspaper:
 
 Links: [Chrome Web Store](https://chrome.google.com/webstore/detail/feed-blocker-for-linkedin/eikaafmldiioljlilngpogcepiedpenf?hl=en)
  
